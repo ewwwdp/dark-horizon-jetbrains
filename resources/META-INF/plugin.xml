@@ -2,8 +2,8 @@
 <idea-plugin>
     <idea-version since-build="231"/>
     <version>1.0.0</version>
-    <id>com.github.ewwwdp.dark-horizon</id>
-    <name>Horizon</name>
+    <id>com.github.ewwwdp.darker-horizon</id>
+    <name>Darker Horizon</name>
     <vendor email="ewwdp@proton.me" url="https://github.com/ewwwdp">ewwwdp</vendor>
     <depends>com.intellij.modules.platform</depends>
     <description><![CDATA[
