@@ -566,6 +566,11 @@
                 <option name="FOREGROUND" value="e95678" />
             </value>
         </option>
+        <option name="ReSharper.CSHARP_STATIC_FIELD_IDENTIFIER">
+            <value>
+                <option name="FOREGROUND" value="e95378" />
+            </value>
+        </option>
         <option name="ReSharper.NAMESPACE_IDENTIFIER">
             <value>
                 <option name="FOREGROUND" value="eaac8b" />
