@@ -1,16 +1,14 @@
-<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-23file.html -->
 <idea-plugin>
     <idea-version since-build="231"/>
-    <version>1.0.0</version>
+    <version>1.0.1</version>
     <id>com.github.ewwwdp.darker-horizon</id>
     <name>Darker Horizon</name>
     <vendor email="ewwdp@proton.me" url="https://github.com/ewwwdp">ewwwdp</vendor>
     <depends>com.intellij.modules.platform</depends>
     <description><![CDATA[
-      Dark horizon theme for JetBrains based on mcagampan/dark-horizon for VS Code.
+      Dark horizon theme for JetBrains based on mcagampan/dark-horizon for VS Code. Currently, supports only Rider and Intellij IDEA.
     ]]></description>
     <extensions defaultExtensionNs="com.intellij">
         <themeProvider id="dark_horizon_theme.dark" path="/theme/dark_horizon_theme.theme.json"/>
     </extensions>
-
 </idea-plugin>
